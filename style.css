@@ -40,7 +40,7 @@ html {
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.task-window {
   display: flex;
 }
 
